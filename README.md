@@ -1,2 +1,2 @@
 # NgpContact
-Php component for submitting contact to NGP VAN
+Php component for submitting contacts to NGP VAN
