@@ -1,0 +1,19 @@
+{
+	"name" : "nmcteam/ngp-contact",
+    "type" : "library",
+    "description" : "NGP Php Contact Class",
+    "keywords" : [
+        "NGP"
+    ],
+    "homepage" : "http://www.newmediacampaigns.com",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "Sam LeBLanc",
+            "email": "sam@newmediacampaigns.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+}
