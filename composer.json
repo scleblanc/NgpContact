@@ -3,7 +3,9 @@
     "type" : "library",
     "description" : "NGP Php Contact Class",
     "keywords" : [
-        "NGP"
+        "NGP",
+        "New Media Campaigns",
+        "NMC"
     ],
     "homepage" : "http://www.newmediacampaigns.com",
     "license" : "MIT",
@@ -14,6 +16,12 @@
         }
     ],
     "require": {
+        "php": ">=5.6.0",
         "guzzlehttp/guzzle": "^6.1"
     },
+    "autoload": {
+        "psr-4": {
+            "Nmcteam\\Ngp\\" : "src"
+        }
+    }
 }
