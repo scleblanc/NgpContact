@@ -1,7 +1,6 @@
 # :NgpContact
 
-[![Latest Version on Packagist][ico-version]](0.9.0)
-[![Software License][ico-license]](LICENSE.md)
+[![Software License][ico-license]](LICENSE)
 
 The NgpContact class allows you to easily create and save contacts to an NGP account via Php.
 
