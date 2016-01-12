@@ -1,4 +1,4 @@
-# :NgpContact
+# NgpContact
 
 [![Software License][ico-license]](LICENSE)
 
